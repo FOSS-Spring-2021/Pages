@@ -1,5 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to FOSS 2021 Team 2 Github Page!
 
-hello ida
-Hi
-hello team 
+### Team Members
+Team members, biographies, and research interests
+
+#### Ida Sami
+text
+
+#### Athan Walker
+text
+
+#### Tina Fingesi
+text
+
+#### Tristan Hites
+text
+
+#### Zeke Peterson
+text
