@@ -6,6 +6,8 @@ Team members, biographies, and research interests
 #### Ida Sami
 text
 
+<hr />
+
 #### Athan Walker
 
 ##### About...
@@ -25,6 +27,8 @@ text
 **Hobbies:** Guitar, basketball, gaming
 
 **Fun fact:** Has pole-vaulted over 10 feet
+
+<hr />
 
 #### Tina Fingesi
 text
