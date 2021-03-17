@@ -7,7 +7,18 @@ Team members, biographies, and research interests
 text
 
 #### Athan Walker
-text
+
+##### About...
+
+![Athan Walker](./images/Athan_Walker_Profile)
+
+**Major:** Computer Science
+**Year:** 1st year MS Student in Computer Science
+**Undergrad:** University of Arizona
+**Hometown:** Tucson, Arizona
+**Academic Interests:** Software engineering, parallel programming, high-performance computing, data management, data visualization
+**Hobbies:** Guitar, basketball, gaming
+**Fun fact:** Has pole-vaulted over 10 feet
 
 #### Tina Fingesi
 text
