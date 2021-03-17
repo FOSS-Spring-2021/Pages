@@ -10,7 +10,7 @@ text
 
 ##### About...
 
-![Athan Walker](./images/Athan_Walker_Profile)
+![Athan Walker](images/Athan_Walker_Profile.png)
 
 **Major:** Computer Science
 **Year:** 1st year MS Student in Computer Science
