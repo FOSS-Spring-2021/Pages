@@ -10,7 +10,7 @@ text
 
 ##### About...
 
-![Athan Walker](images/Athan_Walker_Profile.png =250x)
+<img src="images/Athan_Walker_Profile.png" alt="Athan Walker" width="250px" height="355px">
 
 **Major:** Computer Science
 
