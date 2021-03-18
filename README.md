@@ -34,8 +34,6 @@ text
 
 ##### About me:
 
-![20210209_142731](https://user-images.githubusercontent.com/78776641/111700529-c31b8f80-87f6-11eb-8e19-1ecdb46f3505.jpg)
-
 **Major:** Environmental Health Science; University of Arizona
 
 **Year:** 1st year PhD student
