@@ -34,7 +34,7 @@ text
 
 ##### About me:
 
-<img src="images/Tina.png" alt="Tina" width="250px" height="355px">
+<img src="images/Tina.jpg" alt="Tina" width="250px" height="355px">
 
 **Major:** Environmental Health Science; University of Arizona
 
