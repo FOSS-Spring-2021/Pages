@@ -31,20 +31,27 @@ text
 <hr />
 
 #### Tina Fingesi
-text
+
+##### About me:
+
+![20210209_142731](https://user-images.githubusercontent.com/78776641/111700529-c31b8f80-87f6-11eb-8e19-1ecdb46f3505.jpg)
+
+**Major:** Environmental Health Science; University of Arizona
+
+**Year:** 1st year PhD student
+
+**Undergrad:** University of Lagos
+
+**Hometown:** Rivers state, Nigeria
+
+**Academic Interests:** Air quality management, Exposure assessment, Bioremediation, HSE
+
+**Hobbies:** Skating, dancing, sightseeing, working-out, photography
+
+**Fun fact:** Won two gold medals in 4 by 400metres relay as an undergrad
 
 #### Tristan Hites
 text
 
-<hr />
-
 #### Zeke Peterson
-<img src="images/zeke_profile.jpg" alt="Zeke Peterson" width="250px" height="355px">
-
-**Program:** Third-year Law Student
-
-**Undergrad:** University of Utah
-
-**Hometown:** Missoula, Montana
-
-<hr />
+text
