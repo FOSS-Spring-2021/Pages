@@ -36,5 +36,15 @@ text
 #### Tristan Hites
 text
 
+<hr />
+
 #### Zeke Peterson
-text
+<img src="images/zeke_profile.jpg" alt="Zeke Peterson" width="250px" height="355px">
+
+**Program:** Third-year Law Student
+
+**Undergrad:** University of Utah
+
+**Hometown:** Missoula, Montana
+
+<hr />
