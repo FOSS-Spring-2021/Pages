@@ -50,6 +50,8 @@ text
 
 **Fun fact:** Won two gold medals in 4 by 400metres relay as an undergrad
 
+<hr />
+
 #### Tristan Hites
 text
 
