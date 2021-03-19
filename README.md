@@ -53,7 +53,24 @@ text
 <hr />
 
 #### Tristan Hites
-text
+
+<img scr="https://user-images.githubusercontent.com/78441133/111818691-b2255980-889c-11eb-985a-c5e10b14dc9f.jpg" width="240px" height="300px">
+
+#### About...
+
+**Major:** Public Policy 
+
+**Year:** 1st Year Master's of Public Policy Student 
+
+**Hometown:** Potlatch, Idaho
+
+**Academic Intrests:** Environmental Policy, impacts from invasice species, wildfire policy and management
+
+**Hobbies:** Reading, being outdoors, exercising, watching YouTube
+
+**Fun Fact:** Tristan has gone on three 50+ mile hikes and two 100+ mile canoe trips. 
+
+<hr />
 
 #### Zeke Peterson
 text
