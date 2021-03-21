@@ -4,7 +4,25 @@
 Team members, biographies, and research interests
 
 #### Ida Sami
-text
+
+##### About...
+
+<img src="images/Ida.jpg" alt="Ida Sami" width="250px" height="205px">
+
+**Major:** Arid Lands Resource Sciences GIDP
+
+**Year:** 3rd year PhD Candidate
+
+**Undergrad:** BSc in Architectural Engineering 
+
+**Hometown:** Tabriz, Iran
+
+**Academic Interests:** Urban Resilience, Urban Climate, Extreme Heat
+
+**Hobbies:** Baking, Interior design, Walking
+
+**Fun fact:** I love painting, and I paint portraits during my free time. 
+
 
 <hr />
 
