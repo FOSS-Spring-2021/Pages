@@ -97,7 +97,7 @@ Team members, biographies, and research interests
 
 [**Resume**](https://drive.google.com/file/d/1vvUP5BJhxXeU75vPZTiC8doSwjSDNv8Y/view?usp=sharing)
 
-[**Legal Writing Sample](https://drive.google.com/file/d/1BNFp4IiDwZ0IMDmuzIFsDYWJWjmYugoN/view?usp=sharing)
+[**Legal Writing Sample**](https://drive.google.com/file/d/1BNFp4IiDwZ0IMDmuzIFsDYWJWjmYugoN/view?usp=sharing)
 
 **Experience and Research Interests:** Federal environmental law, Public land and natural resource management, Administrative law
 
