@@ -99,6 +99,8 @@ Team members, biographies, and research interests
 
 [**Legal Writing Sample**](https://drive.google.com/file/d/1BNFp4IiDwZ0IMDmuzIFsDYWJWjmYugoN/view?usp=sharing)
 
+[**Academic Writing Sample**](https://drive.google.com/file/d/11dNV5cpmY9_jQA42R5iMyNwmvVnrImmt/view?usp=sharing)
+
 **Experience and Research Interests:** Federal environmental law, Public land and natural resource management, Administrative law
 
 **Undergrad:** B.S. in Chemical Engineering, University of Utah
