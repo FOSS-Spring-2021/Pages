@@ -91,4 +91,21 @@ Team members, biographies, and research interests
 <hr />
 
 #### Zeke Peterson
-text
+<img src="images/zeke_profile.jpg" alt="Zeke Peterson" width="250px" height="355px">
+
+**Program:** Third-year Law Student
+
+[**Resume**](https://drive.google.com/file/d/1vvUP5BJhxXeU75vPZTiC8doSwjSDNv8Y/view?usp=sharing)
+
+[**Legal Writing Sample](https://drive.google.com/file/d/1BNFp4IiDwZ0IMDmuzIFsDYWJWjmYugoN/view?usp=sharing)
+
+**Experience and Research Interests:** Federal environmental law, Public land and natural resource management, Administrative law
+
+**Undergrad:** B.S. in Chemical Engineering, University of Utah
+
+**Hometown:** Missoula, Montana
+
+**Hobbies:** Trail running, Skiing, Watching Minor League Baseball, Constructing crossword puzzles
+
+**Fun Fact:** Zeke's favorite sandwich is a peanut butter, jelly, and huckleberry sandwich
+<hr />
