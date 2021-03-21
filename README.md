@@ -72,7 +72,7 @@ Team members, biographies, and research interests
 
 #### Tristan Hites
 
-<img scr="https://user-images.githubusercontent.com/78441133/111818691-b2255980-889c-11eb-985a-c5e10b14dc9f.jpg" width="240px" height="300px">
+<img src="https://user-images.githubusercontent.com/78441133/111818691-b2255980-889c-11eb-985a-c5e10b14dc9f.jpg" width="240px" height="300px">
 
 #### About...
 
