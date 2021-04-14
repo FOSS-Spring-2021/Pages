@@ -82,7 +82,7 @@ Team members, biographies, and research interests
 
 **Hometown:** Potlatch, Idaho
 
-**Academic Intrests:** Environmental Policy, impacts from invasice species, wildfire policy and management
+**Academic Intrests:** Environmental policy, impacts from invasive species, wildfire policy and management
 
 **Hobbies:** Reading, being outdoors, exercising, watching YouTube
 
