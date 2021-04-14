@@ -1,4 +1,16 @@
-## Welcome to FOSS 2021 Team 2 Github Page!
+## Welcome to FOSS 2021 Team D Github Page!
+
+### Our Capstone Project
+
+In general, most of the disciplines our team members come from are new to the Open Science world, and it is a challenge to convince peers and researchers in our disciplines to adhere to these new principles. We are taking the first steps to bridge the gap between Open Science and FAIR principles and our current work research envirionments. We wanted our capstone to reflect some of the initial first steps we are all attempting to make in our own research. 
+
+Ida Sami was the only one in our group working with data, so for our project we decided to move her data to the CyVerse Data Store. We are doing this so her research partners can easily access her data on the cloud. Before, they only used Excel and stored the data on their local machines. Now, with the Data Store, Ida and her research group can begin to incoperate Open Scince & FAIR Principles into her work.  
+
+We also decided to all look through Ida's Data Management plan and provide feedback as a team. The data management plan is allowing Ida to share her research process with stakeholders involved in the research project. 
+
+
+
+
 
 ### Team Members
 Team members, biographies, and research interests
@@ -87,6 +99,8 @@ Team members, biographies, and research interests
 **Hobbies:** Reading, being outdoors, exercising, watching YouTube
 
 **Fun Fact:** Tristan has gone on three 50+ mile hikes and two 100+ mile canoe trips. 
+
+**What we Learned from FOSS:**
 
 <hr />
 
