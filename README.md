@@ -100,7 +100,7 @@ Team members, biographies, and research interests
 
 **Fun Fact:** Tristan has gone on three 50+ mile hikes and two 100+ mile canoe trips. 
 
-**What we Learned from FOSS:**
+**What I Plan to Implement from FOSS:** I am very new to open science, and this course has really opened my eyes to what I should be doing in my research and Master's of Public Policy program. As first steps to begin down the path to open science, I would like to implement three resources: GitHub, DSWizard, and CyVerse. For GitHub, I would like to make my own page to showcase my research, as well as host any code I use. For DSWizard, I am going to revamp my lab's current DMP using this tool and make it as FAIR as possible. Finally, for future projects I would like to use the CyVerse Data Store to hold all of my data to the cloud for myself and collaborators to use. These will be my first initial steps using open science skills and I hope to use more in the future. 
 
 <hr />
 
