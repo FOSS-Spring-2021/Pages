@@ -9,8 +9,10 @@ Ida Sami was the only one in our group working with data, so for our project we 
 We also decided to all look through Ida's Data Management plan and provide feedback as a team. The data management plan is allowing Ida to share her research process with stakeholders involved in the research project. 
 
 <img src="images/ida_image1.png" alt="Ida Sami" width="500px" height="300px">
-<hr />
+
 <img src="images/ida_image3.png" alt="Ida Sami" width="500px" height="300px">
+
+<hr />
 
 ### Team Members
 Team members, biographies, and research interests
