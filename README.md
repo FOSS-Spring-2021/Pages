@@ -80,16 +80,16 @@ Team members, biographies, and research interests
 
 **Fun fact:** Won two gold medals in 4 by 400metres relay as an undergrad
 
-**FOSS TOOLS & IMPLEMENTATION*
+**FOSS TOOLS & IMPLEMENTATION**
 As a beginner in Data/Open science, the FOSS program gave me hands-on knowledge in making my data FAIR. Some of the skills I find myself using immediately are:
 
-*Data Management Plan through DS wizard:* The DMP gives me a good start-off point for my research. There are two faculty members and one PhD student in my lab team; with a thorough DMP I will be able to highlight the roadmap for the project which will make my project more collaborative with other members of the team
+**Data Management Plan through DS wizard:** The DMP gives me a good start-off point for my research. There are two faculty members and one PhD student in my lab team; with a thorough DMP I will be able to highlight the roadmap for the project which will make my project more collaborative with other members of the team
 
-*CyVerse Data storage:* I will be collecting hourly air quality data during my field sampling and the data store is a more secure and accessible platform for me with large enough storage space for the quantity of data I will be uploading
+**CyVerse Data storage:** I will be collecting hourly air quality data during my field sampling and the data store is a more secure and accessible platform for me with large enough storage space for the quantity of data I will be uploading
 
-*GitHub:* With GitHub, each member of the research team will have the opportunity to access the codes, make changes and altogether we will be able to keep track of these changes and versions. 
+**GitHub:** With GitHub, each member of the research team will have the opportunity to access the codes, make changes and altogether we will be able to keep track of these changes and versions. 
 
-*HackMD: With the HackMD we can discuss the progress of the research as a group and have real time collaboration
+**HackMD:** With the HackMD we can discuss the progress of the research as a group and have real time collaboration
 
 Other tools which I wish we covered more in depth or which I may need to study more and might at a later time find useful in my field of study are: Atmosphere, Jupyter Notebook, Shell/Linux Commandline
 
