@@ -64,7 +64,7 @@ Team members, biographies, and research interests
 
 ##### About me:
 
-<img src="images/Tina.jpg" alt="Tina" width="240px" height="300px">
+<img src="images/Tina.jpg" alt="Tina" width="240px" height="280px">
 
 **Major:** Environmental Health Science; University of Arizona
 
