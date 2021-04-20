@@ -153,3 +153,7 @@ Other tools which I wish we covered more in depth or which I may need to study m
 
 **Fun Fact:** Zeke's favorite sandwich is a peanut butter, jelly, and huckleberry sandwich
 <hr />
+
+**Takeaways from FOSS:** FOSS was my first experience learning about open science and the importance of ensuring reproducibility and tranparancy in research. As someone working in the realm of legal scholarship, the legal field still has a long ways to go in implementing these concepts. Empirical, data-driven studies are becoming more and more common in law reviews, but the professors and student editors who work on these peices have very little background in quantitative analysis and open science. This results in a system in which we are in danger of publishing unchecked, nonreproducible analysis that could damage the credibility of legal scholarship.
+
+FOSS taught me many skills that legal scholars could begin to implement in order to incorporate more open science principles into their research. First, beginning with a data management plan would make data selection and use more transparent. Second, making empirical data openly available online, on a platform such as Cyverse Data Store, would make legal empirical work more transparant. Finally, making any analyses that may have been completed in R or Python available on a platform such as Github would make legal empirical research more reproducible. These are all concepts that I learned about for the first time through FOSS and concepts that I hope legal scholars will begin to implement in the future.
