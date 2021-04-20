@@ -37,6 +37,8 @@ Team members, biographies, and research interests
 
 **Fun fact:** I love painting, and I paint portraits during my free time. 
 
+**What I Plan to Implement from FOSS:** I'm working on collaborative research, and I am new to the open science concept. I learned more about FAIR data and data storage plans at the Foss workshop (DMP). I'm currently storing my data in Cyvers and sharing the project with my colleagues in DMP. I plan to use Python for data analysis and Seaborn for data visualization in the future.
+
 
 <hr />
 
