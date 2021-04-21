@@ -105,8 +105,9 @@ As a beginner in Data/Open science, the FOSS program gave me hands-on knowledge 
 
 **HackMD:** With the HackMD we can discuss the progress of the research as a group and have real time collaboration
 
-Other tools which I wish we covered more in depth or which I may need to study more and might at a later time find useful in my field of study are: Atmosphere, Jupyter Notebook, Shell/Linux Commandline
-
+**Next steps for me:**
+*To be more proficient with the four tools above* 
+*To learn how to use R and/or Python so that I can share my codes on GitHub for more collaboration*
 
 <hr />
 
