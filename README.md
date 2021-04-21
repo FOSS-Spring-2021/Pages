@@ -69,7 +69,7 @@ Team members, biographies, and research interests
 * **GitHub Pages:** Delivers a free web page for users to take advantage of. Easily links to GitHub repositories and code.
 * **CyVerse Datastore:** Great for structuring and storing large amounts of data, making them easily accessible.
 
-The FOSS takeaways listed above are the skills and tools I learned from my time attending the FOSS workshop. Each are linked to the concept of FAIR science and can be utilized in all projects related to data. Some of these skills may suit some needs over others all build towards better science.
+The FOSS takeaways listed above are the skills and tools I learned from my time attending the FOSS workshop. Each are linked to the concept of FAIR science and can be utilized in all projects related to data. Some of these skills may suit some needs over others, but  all build towards better science.
 
 
 <hr />
