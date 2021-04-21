@@ -106,7 +106,8 @@ As a beginner in Data/Open science, the FOSS program gave me hands-on knowledge 
 **HackMD:** With the HackMD we can discuss the progress of the research as a group and have real time collaboration
 
 **Next steps for me:**
-*To be more proficient with the four tools above* 
+*To be more proficient with the four tools above.* 
+
 *To learn how to use R and/or Python so that I can share my codes on GitHub for more collaboration*
 
 <hr />
