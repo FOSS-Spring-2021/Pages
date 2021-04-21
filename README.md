@@ -64,13 +64,12 @@ Team members, biographies, and research interests
 
 **FOSS Takeaways**
 * **Docker containers:** Useful for mobilizing code and including dependencies all in one neat bundle. 
-* **Data Management Plans:** DMPs are tough to incorporate into non-research based projects due to the habits of the team. One convincing argument is that a well organized DMP can assist with grants from project proposals, in addition to the FAIR principles that a DMP follows.
-* **HackMD:** Real time collaboration is a sought out activity among collaborators. HackMD provides this in a markdown editor/result format. In real time users can edit in markdown and see the resulting page. The advantage of this over google docs is the customizable flexibility that markdown can provide over google docs.
+* **Data Management Plans:** DMPs are tough to incorporate into non-research-based projects due to the habits of the team. One convincing argument is that a well-organized DMP can assist with grants from project proposals, in addition to the FAIR principles that a DMP follows.
+* **HackMD:** Real time collaboration is a sought-out activity among collaborators. HackMD provides this in a markdown editor/result format. In real time users can edit in markdown and see the resulting page. The advantage of this over google docs is the customizable flexibility that markdown can provide over google docs.
 * **GitHub Pages:** Delivers a free web page for users to take advantage of. Easily links to GitHub repositories and code.
-* **CyVerse Datastore:** Great for structuring and storing large amounts of data, making them easily accessible.
+* **CyVerse Datastore:** Great for structuring, storing and consucting analysis on large amounts of data, making them easily accessible and usable.
 
 The FOSS takeaways listed above are the skills and tools I learned from my time attending the FOSS workshop. Each are linked to the concept of FAIR science and can be utilized in all projects related to data. Some of these skills may suit some needs over others, but  all build towards better science.
-
 
 <hr />
 
